@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url(../img/textura.jpg);
+  background-image: url("../img/textura.jpg");
 }
 main {
   width: 100%;
